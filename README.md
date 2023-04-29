@@ -1,5 +1,5 @@
 ## 간단한 투두리스트 
-Next.js, React Query 공식문서 정독후 간단한 투두리스트 작업
+Next.js, React Query 공식문서 정독후 간단한 투두리스트 만들기
 
 
 ## 사용순서
