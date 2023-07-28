@@ -1,6 +1,9 @@
 ## 간단한 투두리스트 
 Next.js, React Query 공식문서 정독후 간단한 투두리스트 만들기
 
+#### 구현된 모습
+<img width="1362" alt="스크린샷 2023-07-29 오전 3 24 41" src="https://github.com/JeonInguk/TodoList-NEXT/assets/117060240/1498b2f1-81f7-4d18-8b58-dc5d1c0e0e5f">
+
 
 ## 사용순서
 
